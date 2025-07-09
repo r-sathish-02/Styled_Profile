@@ -31,7 +31,7 @@ Use flexbox or margin: auto to center the card vertically and horizontally on th
 Enhance interactivity with simple hover effects like border changes or background transition using CSS.
 
 ## HTML Code:
-/* style.css */
+```
 
 body {
     background-color: #f0f2f5;
@@ -117,6 +117,7 @@ section:hover {
     transform: translateY(-5px);
     box-shadow: 0 12px 25px rgba(0, 0, 0, 0.25);
 }
+```
 
 
 ## Output:
